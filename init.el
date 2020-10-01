@@ -32,6 +32,9 @@
 (setq smex 1)
 (require 'smex)
 
+;; ace-window
+(global-set-key (kbd "M-o") 'ace-window)
+
 (setq make-backup-files nil)
 
 (custom-set-variables
