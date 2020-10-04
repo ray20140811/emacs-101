@@ -13,14 +13,14 @@ Emacs Distribution
 
 Package Archives
 -----------------
-[ELPA](https://elpa.gnu.org/)
-[MELPA](https://melpa.org/#/)
-[]
+* [ELPA](https://elpa.gnu.org/)
+* [MELPA](https://melpa.org/#/)
 
 
 Package
 -----------------
 * [ace-window](https://github.com/abo-abo/ace-window)
+
 
 theme
 -----------------
