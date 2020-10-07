@@ -1,10 +1,16 @@
-Spacemacs安裝
-=======================
+Spacemacs
+=========
 
 下載
 ----------
 
     [ray@Parabola ~]# git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+
+How To
+----------
+# 顯示行號
+
+    M-x display-line-numbers-mode
 
 Quick Help
 ----------
@@ -43,3 +49,5 @@ Quick Help
     When reading a document, you can use [SPC s j] to jump to a heading.
 
     Please consult Spacemacs documentation from [SPC h SPC] for more details.    
+
+    
