@@ -1,0 +1,2 @@
+* emacs menu-bar在terminal下可用下拉
+

@@ -8,6 +8,14 @@
 (add-to-list 'package-archives '("marmalade" . "https://marmalade-repo.org/packages/") t)
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 
+;; ace-window
+(require 'ace-window)
+(ace-window t)
+
+;; ido
+(require 'ido)
+(ido-mode t)
+
 ;; show line number
 (global-linum-mode 1)
 
