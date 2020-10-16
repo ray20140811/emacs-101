@@ -12,6 +12,15 @@ How To
 
     M-x display-line-numbers-mode
 
+# 自動補齊
+
+1. Use <spc> f e d to open .spacemacs file
+2. find dotspacemacs-configuration-layers
+3. auto-completion should already be in the list, but commented out.
+Just enable it bye remove the comment mark before.
+4. in normal mode, invoke <spc> f e R to install required packages or simply restart emacs 
+    
+
 Quick Help
 ----------
 
